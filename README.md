@@ -67,7 +67,7 @@ You should now be able to select the Stellaris ICDI interface within Keil uVisio
 
 ## Programming the Device
 
-Assuming that you have experience with **git** so that you can clone this repository.
+We're assuming that you have experience with **git** so that you can clone this repository.
 
 Programming the device for the purposes of testing your system involves:
 
@@ -84,7 +84,7 @@ In more detail...
 
 ### Cloning the Repository
 
-Assumiong that you've installed the Keil uVision software into: `C:\Keil_v5`
+We're assuming that you've installed the Keil uVision software into: `C:\Keil_v5`
 
 Within a command prompt on your development system:
 

@@ -36,7 +36,7 @@ Normal installation process:
 3. Install by double clicking the downloaded file.
 4. Follow the installation instructions (accept the default installation directory).
 
-## Install Windows 10 USB Drivers
+### Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 
 [How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
@@ -50,7 +50,10 @@ First:
 
 Then, if the drivers are not installed automatically:
 1. Download the UT Austin [Test EXecute And Simulate software](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe).
-2. 
+2. Find the downloaded file.
+3. Install by double clicking the downloaded file.
+4. Follow the installation instructions (install the software in the same directory as Keil uVision).
+
 ## Start Your First Project
 
 ## Write Your First Program

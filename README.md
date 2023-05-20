@@ -16,6 +16,12 @@ Microsoft Windows 10 Pro Version 10.0.19045 Build 19045
 
 Keil uVision V5.38.0.0
 
+Texas Instruments Interface DLL lmidk-agdi.dll build 211.0.0.0
+
+Stellaris USB ICDI DFU Device Version 2.0.7922.0 (12/31/2015)
+
+Stellaris ICDI JTAG/SWD Interface version 2.0.7922.0 (12/31/2015)
+
 ## Install Keil uVision IDE
 The [Keil uVision IDE](https://developer.arm.com/documentation/101407/0538/About-uVision) allows you to create a project that targets your microcontroller, and configure support packages that provide startup and application-specific functionality to your system. Keil uVision is part of the [Keil Microcontroller Development Kit (MDK)](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK). To install the product under Windows 10, follow these steps:
 

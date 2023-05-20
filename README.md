@@ -140,7 +140,7 @@ Should see something like this:
 
 ### Run the Software
 
-If the build and download weres successful:
+If the build and download were successful:
 
 1. Press and release the **RESET** button on the LaunchPad board.
 2. You should see the RGB LEDs cycle = success.

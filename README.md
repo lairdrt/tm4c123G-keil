@@ -120,3 +120,16 @@ From within the uVision IDE:
 3. Double click on the name of the project (e.g., **wtf.uvprojx**).
 4. You should see something like this:
 
+![project](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/ece5d7ec-dbc5-4356-983d-1fb4db881776)
+
+### Clean, Build, and Download
+
+Follow these steps to perform a clean build of the software:
+
+1. Select **Project > Clean Targets**
+2. Select **Project > Build Target**
+
+Should see something like this:
+
+![projectbuild](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/39b6f7b7-7c05-4d62-9e11-b3e0f1e85849)
+

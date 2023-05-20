@@ -105,3 +105,9 @@ With the LaunchPad board:
 4. You should see some indication on Windows that the board is plugged in (e.g., sound, system tray icon).
 5. You can double check under the Windows Device Manaager that the Stellaris devices are active.
 
+### Launch Keil uVision
+
+You want a clean start, so launch the IDE software anew. The screen should look something like this:
+
+![uvision](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/9c57c2b7-02a5-4a3c-8263-fd2aec3149b4)
+

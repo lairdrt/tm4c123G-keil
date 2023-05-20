@@ -140,10 +140,10 @@ Should see something like this:
 
 ### Run the Software
 
-If the build and downlaod weres successful:
+If the build and download weres successful:
 
 1. Press and release the **RESET** button on the LaunchPad board.
-2. You should see the RGB LED cycle = success.
+2. You should see the RGB LEDs cycle = success.
 
 Take a look at the settings for the target device by selecting **Project > Options for Target 'TM4C123G'...** (as shown above). This is where you can verify that the Stellaris drivers are available for use when debugging.
 

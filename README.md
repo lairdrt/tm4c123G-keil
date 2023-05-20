@@ -52,6 +52,8 @@ Then, you'll want to verify that the packages for the TM4C123GH6PM are installed
 
 If the highlighted packages above do not display **Up to date** adjacent to them on the right hand panel, then select the button for each component and install it.
 
+Close the Pack Installer.
+
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 

@@ -12,13 +12,13 @@ Adapted from:
 [How to use GPIO pins of TM4C123G Tiva launchPad](https://microcontrollerslab.com/use-gpio-pins-tm4c123g-tiva-launchpad/)
 
 ## Versions
-Microsoft Windows 10 Pro Version 10.0.19045 Build 19045
+Microsoft Windows 10 Pro version 10.0.19045 Build 19045
 
 Keil uVision V5.38.0.0
 
-Texas Instruments Interface DLL lmidk-agdi.dll build 211.0.0.0
+Texas Instruments Interface DLL (lmidk-agdi.dll) build 211.0.0.0
 
-Stellaris USB ICDI DFU Device Version 2.0.7922.0 (12/31/2015)
+Stellaris USB ICDI DFU Device version 2.0.7922.0 (12/31/2015)
 
 Stellaris ICDI JTAG/SWD Interface version 2.0.7922.0 (12/31/2015)
 

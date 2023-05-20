@@ -46,7 +46,7 @@ First:
 2. If you're really lucky, the appropriate device drivers will be loaded, but probably not.
 3. Successful driver installation looks like this:
 
-![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/0aea6307-a342-4176-a256-dffa800dd725)
+![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/004925c3-d735-4c47-82b4-b249196616c1)
 
 ## Start Your First Project
 

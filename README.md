@@ -48,6 +48,8 @@ After the initial installation of the Keil software, you should be presented wit
 
 Then, you'll want to install the packages for the LaunchPad (TM4C123GH6PM).
 
+![packcheck](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/65fab739-794d-4250-aa91-93d5aacd91b3)
+
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 

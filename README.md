@@ -36,6 +36,8 @@ Installation process:
 4. Install by double clicking the downloaded file.
 5. Follow the installation instructions (accept the default installation directory).
 
+![mdkarm](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/f4d02d97-bc21-4776-b3af-458162a62811)
+
 You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack Installer should launch.
 
 ## Customize Keil Installation with the Pack Installer

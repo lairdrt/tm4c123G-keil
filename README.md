@@ -31,7 +31,7 @@ You basically have to register to download the ARM MDK, but it's free. When you 
 
 Normal installation process:
 1. [Download the MDK-ARM.](https://www.keil.com/demo/eval/armv4.htm)
-2. You should see a screen where you can click to doanload the **MDKxx.exe** application file.
+2. You should see a page where you can click to download the **MDKxx.exe** application file.
 3. Find the downloaded file.
 4. Install by double clicking the downloaded file.
 5. Follow the installation instructions (accept the default installation directory).

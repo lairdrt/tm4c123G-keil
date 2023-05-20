@@ -30,8 +30,6 @@ You basically have to register to download the ARM MDK, but it's free. When you 
 
 ![Screenshot 2023-05-20 at 13-19-31 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/23f9346f-4282-46b1-acd4-6745ba2be239)
 
-![Screenshot 2023-05-20 at 12-56-32 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/75a731db-c28b-4c57-8509-2c35b61c38dc)
-
 Normal installation process:
 1. [Download the MDK-ARM.](https://www.keil.com/demo/eval/armv4.htm)
 2. Find the downloaded file.

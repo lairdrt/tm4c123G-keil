@@ -94,3 +94,13 @@ Within a command prompt on your development system:
 `git clone git@github.com:lairdrt/tm4c123G-keil.git`<br>
 
 Should end up with the directory: `C:\Keil_v5\Projects\tm4c123G-keil`
+
+### Connect the LaunchPad Board
+
+With the LaunchPad board:
+
+1. Make sure that the **PWR SELECT** switch is set to **DEBUG**.
+2. Plug in the board to an avalable USB port on your development system.
+3. The green **PWR** LED on the board should illuminate.
+4. You should see some indication on Windows that the board is plugged in (e.g., sound, system tray icon).
+

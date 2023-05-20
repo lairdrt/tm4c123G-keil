@@ -70,7 +70,7 @@ You should now be able to select the Stellaris ICDI interface within Keil uVisio
 Programming the device for the purposes of testing your system involves:
 
 1. Cloning this repository into a directory of your choice.
-2. Plugging in your LaunchPad to your development system.
+2. Plugging in the LaunchPad evaluation board to your development system.
 3. Launching the Keil uVision IDE.
 4. Opening the project that you cloned.
 5. Cleaning the target.

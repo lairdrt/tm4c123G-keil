@@ -25,7 +25,6 @@ Stellaris ICDI JTAG/SWD Interface version 2.0.7922.0 (12/31/2015)
 ## Install Keil uVision IDE
 The [Keil uVision IDE](https://developer.arm.com/documentation/101407/0538/About-uVision) allows you to create a project that targets your microcontroller, and configure support packages that provide startup and application-specific functionality to your system. Keil uVision is part of the [Keil Microcontroller Development Kit (MDK)](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK). To install the product under Windows 10, follow these steps:
 
-### Download the Keil ARM MDK
 You basically have to register to download the ARM MDK, but it's free. When you go to submit the registration form, enter `TM4C123GH6PMI` for the device that you are using. The registration screen looks like this:
 
 ![Screenshot 2023-05-20 at 13-19-31 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/23f9346f-4282-46b1-acd4-6745ba2be239)
@@ -38,7 +37,7 @@ Normal installation process:
 
 You should now have a desktop icon for the Keil uVision IDE.
 
-### Install Windows 10 USB Drivers
+## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 
 [How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)

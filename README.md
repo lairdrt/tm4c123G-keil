@@ -52,7 +52,7 @@ Then, if the drivers are not installed automatically:
 1. Download the UT Austin [Test EXecute And Simulate software](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe).
 2. Find the downloaded file.
 3. Install by double clicking the downloaded file.
-4. Follow the installation instructions (install the software in the same directory as Keil uVision).
+4. Follow the installation instructions (install the software in the **same directory** as Keil uVision).
 
 ## Start Your First Project
 

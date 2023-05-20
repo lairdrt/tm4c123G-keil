@@ -36,6 +36,12 @@ Normal installation process:
 3. Install by double clicking the downloaded file.
 4. Follow the installation instructions (accept the default installation directory).
 
+The above will result in the Windows 10 drivers being installed in your Keil uVision directory. Remember where that is.
+
+Next, you'll update the Windows 10 drivers for the LaunchPad using the Windows Device Manager:
+1. [Follow these instructions starting at step 9.](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
+2. You should end up with the device drivers installed as shown above (you may/mau not end up with the addition COM port).
+
 ### Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 

@@ -14,7 +14,7 @@ Adapted from:
 ## Install Keil uVision IDE
 
 ## Install Windows 10 USB Drivers
-You will need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
+You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 
 https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm
 

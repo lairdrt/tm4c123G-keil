@@ -133,3 +133,7 @@ Should see something like this:
 
 ![projectbuild](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/39b6f7b7-7c05-4d62-9e11-b3e0f1e85849)
 
+1. Select **Flash > Download**
+2. If the USB drivers were installed correcly, then you should see something like this:
+
+![projectdownload](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/a8f471e2-4ab2-49ad-aa17-a0ad50d11bd6)

@@ -41,6 +41,13 @@ You'll need the correct Windows 10 USB drivers to download your compiled binary 
 
 [How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
 
+First:
+1. Plug in your LaunchPad to an available USB port on your development computer.
+2. If you're really lucky, the appropriate device drivers will be loaded, but probably not.
+3. Successful driver installation looks like this:
+
+![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/41749a3d-ceaa-4b9e-a6a4-29d1fbfceeed)
+
 ## Start Your First Project
 
 ## Write Your First Program

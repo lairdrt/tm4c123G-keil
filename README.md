@@ -29,9 +29,9 @@ You basically have to register to download the ARM MDK, but it's free. When you 
 
 ![Screenshot 2023-05-20 at 13-19-31 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/23f9346f-4282-46b1-acd4-6745ba2be239)
 
-Normal installation process:
+Installation process:
 1. [Register to download the MDK-ARM.](https://www.keil.com/demo/eval/armv4.htm)
-2. You should see a page where you can click to download the **MDKxxx.exe** application file.
+2. After you've registered, click on the file **MDKxxx.exe** to download it.
 3. Find the downloaded file.
 4. Install by double clicking the downloaded file.
 5. Follow the installation instructions (accept the default installation directory).
@@ -77,7 +77,6 @@ You should now be able to select the Stellaris ICDI interface within Keil uVisio
 We're assuming that you have experience with **git** so that you can clone this repository.
 
 Programming the device for the purposes of testing your system involves:
-
 1. Cloning this repository into a directory of your choice.
 2. Plugging in the LaunchPad evaluation board to your development system.
 3. Launching the Keil uVision IDE.
@@ -105,7 +104,6 @@ Should end up with the directory: `C:\Keil_v5\Projects\tm4c123G-keil`
 ### Connect the LaunchPad Board
 
 With the LaunchPad board:
-
 1. Make sure that the **PWR SELECT** switch is set to **DEBUG**.
 2. Plug in the board to an avalable USB port on your development system.
 3. The green **PWR** LED on the board should illuminate.
@@ -121,7 +119,6 @@ You want a clean start, so launch the IDE software anew. The screen should look 
 ### Open the Test Project
 
 From within the uVision IDE:
-
 1. Select **Project > Open Project...**
 2. Navigate to the directory where you cloned the project (e.g., **C:\Keil_v5\Projects\tm4c123G-keil**).
 3. Double click on the name of the project (e.g., **wtf.uvprojx**).
@@ -132,7 +129,6 @@ From within the uVision IDE:
 ### Clean, Build, and Download
 
 Follow these steps to perform a clean build of the software:
-
 1. Select **Project > Clean Targets**
 2. Select **Project > Build Target**
 
@@ -148,7 +144,6 @@ Should see something like this:
 ### Run the Software
 
 If the build and download were successful:
-
 1. Press and release the **RESET** button on the LaunchPad board.
 2. You should see the RGB LEDs cycle = success.
 

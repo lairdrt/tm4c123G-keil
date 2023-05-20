@@ -32,6 +32,11 @@ You basically have to register to download the ARM MDK, but it's free. When you 
 
 ![Screenshot 2023-05-20 at 12-56-32 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/75a731db-c28b-4c57-8509-2c35b61c38dc)
 
+Normal installation process:
+1. Find the downloaded file.
+2. Install by double clicking the downloaded file.
+3. Follow the installation instructions (accept the default installation directory).
+
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 

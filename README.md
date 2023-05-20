@@ -26,7 +26,7 @@ Stellaris ICDI JTAG/SWD Interface version 2.0.7922.0 (12/31/2015)
 The [Keil uVision IDE](https://developer.arm.com/documentation/101407/0538/About-uVision) allows you to create a project that targets your microcontroller, and configure support packages that provide startup and application-specific functionality to your system. Keil uVision is part of the [Keil Microcontroller Development Kit (MDK)](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK). To install the product under Windows 10, follow these steps:
 
 ### Download the Keil ARM MDK
-You basically have to register to download the ARM MDK, but it's free. When you go to submit the registration form, enter `TM4C123GH6PMI` for the micorcontroller.
+You basically have to register to download the ARM MDK, but it's free. When you go to submit the registration form, enter `TM4C123GH6PMI` for the device that you are using.
 
 ![Screenshot 2023-05-20 at 12-56-32 MDK-ARM Version 4 74 Evaluation Software Request](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/75a731db-c28b-4c57-8509-2c35b61c38dc)
 

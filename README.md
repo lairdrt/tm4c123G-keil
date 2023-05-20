@@ -137,3 +137,12 @@ Should see something like this:
 2. If the USB drivers were installed correcly, then you should see something like this:
 
 ![projectdownload](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/a8f471e2-4ab2-49ad-aa17-a0ad50d11bd6)
+
+### Run the Software
+
+If the build and downlaod weres successful:
+
+1. Press and release the **RESET** button on the LaunchPad board.
+2. You should see the RGB LED cycle = success.
+
+Now you can use this as a starting point for buildingout your application software.

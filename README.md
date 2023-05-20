@@ -111,3 +111,12 @@ You want a clean start, so launch the IDE software anew. The screen should look 
 
 ![uvision](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/9c57c2b7-02a5-4a3c-8263-fd2aec3149b4)
 
+### Open the Test Project
+
+From within the uVision IDE:
+
+1. Select **Project > Open Project...**
+2. Navigate to the directory where you cloned the project (e.g., **C:\Keil_v5\Projects\tm4c123G-keil**).
+3. Double click on the name of the project (e.g., **wtf.uvprojx**).
+4. You should see something like this:
+

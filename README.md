@@ -36,7 +36,7 @@ Normal installation process:
 4. Install by double clicking the downloaded file.
 5. Follow the installation instructions (accept the default installation directory).
 
-You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack Insattler should launch.
+You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack Installer should launch.
 
 ## Customize Keil Installation with the Pack Installer
 

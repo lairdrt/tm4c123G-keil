@@ -36,7 +36,13 @@ Normal installation process:
 4. Install by double clicking the downloaded file.
 5. Follow the installation instructions (accept the default installation directory).
 
-You should now have a desktop icon for the Keil uVision IDE.
+You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack Insattler should launch.
+
+## Customize Keil Installation with the Pack Installer
+
+After the initial installation of the Keil software, you should be presented with Keil Pack Installer. It takes a bit of time for the installer to populate all the devices that it supports, so wait until that process finishes.
+
+Then, you'll want to install the packages for the LaunchPad (TM4C123GH6PM).
 
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:

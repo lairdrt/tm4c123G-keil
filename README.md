@@ -11,6 +11,11 @@ Adapted from:
 
 [How to use GPIO pins of TM4C123G Tiva launchPad](https://microcontrollerslab.com/use-gpio-pins-tm4c123g-tiva-launchpad/)
 
+## Versions
+Microsoft Windows 10 Pro Version 10.0.19045 Build 19045
+
+Keil uVision V5.38.0.0
+
 ## Install Keil uVision IDE
 The [Keil uVision IDE](https://developer.arm.com/documentation/101407/0538/About-uVision) allows you to create a project that targets your microcontroller, and configure support packages that provide startup and application-specific functionality to your system. Keil uVision is part of the [Keil Microcontroller Development Kit (MDK)](https://developer.arm.com/Tools%20and%20Software/Keil%20MDK). To install the product under Windows 10, follow these steps:
 

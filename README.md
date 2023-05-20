@@ -60,7 +60,7 @@ The above will result in the Windows 10 drivers being installed in your Keil uVi
 
 Next, you'll update the Windows 10 drivers for the LaunchPad using the Windows Device Manager:
 1. [Follow these instructions starting at step 9.](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
-2. You should end up with the device drivers installed as shown above (you may/mau not end up with the addition COM port).
+2. You should end up with the device drivers installed as shown above (under Windows 10, there was no additional COM port).
 
 You should now be able to select the Stellaris ICDI interface within Keil uVision under **Options for Target** dialog box on the **Debug** tab (as shown):
 

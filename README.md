@@ -48,6 +48,9 @@ First:
 
 ![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/004925c3-d735-4c47-82b4-b249196616c1)
 
+Then, if the drivers are not installed automatically:
+1. Download the UT Austin [Test EXecute And Simulate software](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe).
+2. 
 ## Start Your First Project
 
 ## Write Your First Program

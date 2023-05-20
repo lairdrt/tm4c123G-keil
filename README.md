@@ -64,7 +64,7 @@ Next, you'll update the Windows 10 drivers for the LaunchPad using the Windows D
 
 You should now be able to select the Stellaris ICDI interface within Keil uVision under **Options for Target** dialog box on the **Debug** tab.
 
-![targetoptions](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/fc41db5e-fcf7-4dfa-887a-ce4b25ebd4e8)
+![targetoptions](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/bf497924-5a0d-47d4-b086-d56d58c525ef)
 
 ## Start Your First Project
 

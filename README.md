@@ -103,4 +103,5 @@ With the LaunchPad board:
 2. Plug in the board to an avalable USB port on your development system.
 3. The green **PWR** LED on the board should illuminate.
 4. You should see some indication on Windows that the board is plugged in (e.g., sound, system tray icon).
+5. You can double check under the Windows Device Manaager that the Stellaris devices are active.
 

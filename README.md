@@ -10,3 +10,13 @@ Adapted from:
 [Getting started with Keil uVision: Write your first Program for Tiva LaunchPad](https://microcontrollerslab.com/keil-uvision-first-program/)
 
 [How to use GPIO pins of TM4C123G Tiva launchPad](https://microcontrollerslab.com/use-gpio-pins-tm4c123g-tiva-launchpad/)
+
+## Install Keil uVision IDE
+
+## Install Windows 10 USB Drivers
+
+## Start Your First Project
+
+## Write Your First Program
+
+## Test Your First Program

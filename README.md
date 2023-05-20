@@ -65,8 +65,15 @@ You should now be able to select the Stellaris ICDI interface within Keil uVisio
 
 ![targetoptions](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/bf497924-5a0d-47d4-b086-d56d58c525ef)
 
-## Start Your First Project
+## Programming the Device
 
-## Write Your First Program
+Programming the device for the purposes of testing your system involves:
 
-## Test Your First Program
+1. Cloning this repository into a directory of your choice.
+2. Plugging in your LaunchPad to your development system.
+3. Launching the Keil uVision IDE.
+4. Opening the project that you cloned.
+5. Cleaning the target.
+6. Building the target.
+7. Downloading the binary file to the target.
+8. Running the software on the target.

@@ -91,6 +91,6 @@ Within a command prompt on your development system:
 `cd c:\Keil_v5`<br>
 `mkdir Projects`<br>
 `cd Projects`<br>
-`git clone git@github.com:lairdrt/tm4c123G-keil.git`<br>`
+`git clone git@github.com:lairdrt/tm4c123G-keil.git`<br>
 
 Should end up with the directory: `C:\Keil_v5\Projects\tm4c123G-keil>`

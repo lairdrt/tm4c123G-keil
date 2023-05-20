@@ -46,9 +46,11 @@ You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack I
 
 After the initial installation of the Keil software, you should be presented with Keil Pack Installer. It takes a bit of time for the installer to populate all the devices that it supports, so wait until that process finishes.
 
-Then, you'll want to install the packages for the LaunchPad (TM4C123GH6PM).
+Then, you'll want to verify that the packages for the TM4C123GH6PM are installed. See below for where to look for them:
 
 ![packcheck](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/65fab739-794d-4250-aa91-93d5aacd91b3)
+
+If the highlighted packages above do not display **Up to date** adjacent to them on the right hand panel, then select the button for each component and install it.
 
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:

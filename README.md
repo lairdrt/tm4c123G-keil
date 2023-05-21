@@ -151,6 +151,16 @@ From within the uVision IDE:
 
 ![uvopen](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/f1f0de40-98f0-404f-b70b-70990fc969ba)
 
+Verify that the target is using the **Stellaris ICDI** USB driver for programming the device.
+
+1. Select **Project > Options for Target 'TM4C123G'...**
+2. Select the **Debug** tab.
+3. On the right hand side (top) of the tab, select the **Use** radio button.
+4. Scroll down in the list and make sure that **Stellaris ICDI** is selected.
+5. Select **Ok** to save the changes.
+
+This will ensure that the correct USB driver is used when programming the target device.
+
 ### Clean, Build, and Download
 
 Follow these steps to perform a clean build of the software:

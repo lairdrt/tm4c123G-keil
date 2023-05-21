@@ -139,7 +139,7 @@ With the LaunchPad board:
 
 You want a clean start, so launch the IDE software anew. The screen should look something like this:
 
-![uvision](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/9c57c2b7-02a5-4a3c-8263-fd2aec3149b4)
+![uvblank](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/59b091b0-336c-4dd9-8c42-4eb3e3c601f1)
 
 ### Open the Test Project
 
@@ -149,7 +149,7 @@ From within the uVision IDE:
 3. Double click on the name of the project (e.g., **blinkleds.uvprojx**).
 4. You should see something like this:
 
-![project](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/ece5d7ec-dbc5-4356-983d-1fb4db881776)
+![uvopen](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/f1f0de40-98f0-404f-b70b-70990fc969ba)
 
 ### Clean, Build, and Download
 
@@ -159,12 +159,12 @@ Follow these steps to perform a clean build of the software:
 
 Should see something like this:
 
-![projectbuild](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/39b6f7b7-7c05-4d62-9e11-b3e0f1e85849)
+![uvbuild](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/baf8954e-b206-4f1c-bcb7-cd6d676aa47d)
 
 1. Select **Flash > Download**
 2. If the USB drivers were installed correcly, then you should see something like this:
 
-![projectdownload](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/a8f471e2-4ab2-49ad-aa17-a0ad50d11bd6)
+![uvflash](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/4cf052bf-14dd-418b-bdab-aad5893fa5f9)
 
 ### Run the Software
 

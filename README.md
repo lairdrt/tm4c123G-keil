@@ -172,6 +172,8 @@ If the build and download were successful:
 1. Press and release the **RESET** button on the LaunchPad board.
 2. You should see the RGB LEDs cycle = success.
 
+https://github.com/lairdrt/tm4c123G-keil/assets/31704471/b36116e0-e1bd-480a-a491-38302c62c136
+
 Take a look at the settings for the target device by selecting **Project > Options for Target 'TM4C123G'...** (as shown above). This is where you can verify that the Stellaris drivers are available for use when debugging.
 
 Now you can use this as a starting point for building out your application software.

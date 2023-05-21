@@ -54,6 +54,21 @@ If the highlighted packages above do not display **Up to date** adjacent to them
 
 Close the Pack Installer.
 
+## Install MDK Stellaris ICDI Debug Adapter Fix
+Frmo the Keil website:
+
+**In MDK v5.29 as well as newer versions of MDK the support for the Stellaris ICDI debug adapter has been removed, which will cause such a debugger DLL error.
+There is an add-on Stellaris ICDI installer that supports MDK v5.29. Just download and install the MDK_Stellaris_ICDI_AddOn.exe file attached in this article.**
+
+So, please follow these instructions to install the fix:
+1. Navigate to this page: [UVISION: Stellaris ICDI Debug Adapter Support](https://developer.arm.com/documentation/ka002280/latest)
+2. Download the **MDK_Stellaris_ICDI_AddOn.exe** attachment at the bottom of the page by clicking on it.
+3. Navigate to where the file was downloaded.
+4. Double click on the file to install the fix.
+5. Follow the installation instructione (accept the default installation directory).
+
+This makes it so that the USB drivers installed below will work.
+
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
 

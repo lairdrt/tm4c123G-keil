@@ -39,7 +39,6 @@ Installation process:
 ![mdkarm](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/f4d02d97-bc21-4776-b3af-458162a62811)
 
 You should now have a desktop icon for the Keil uVision IDE, and the Keil Pack Installer should launch.
-![packwelcome](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/18d08b5c-1fa9-4352-ba3c-801905d7eb39)
 
 
 ## Customize Keil Installation with the Pack Installer

@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'wtf' 
+ * Project: 'blinkleds' 
  * Target:  'TM4C123G' 
  */
 

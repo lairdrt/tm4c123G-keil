@@ -184,6 +184,4 @@ If the build and download were successful:
 
 https://github.com/lairdrt/tm4c123G-keil/assets/31704471/21f07256-186b-4ef5-8d91-f6239bdd78b5
 
-Take a look at the settings for the target device by selecting **Project > Options for Target 'TM4C123G'...** (as shown above). This is where you can verify that the Stellaris drivers are available for use when debugging.
-
 Now you can use this as a starting point for building out your application software.

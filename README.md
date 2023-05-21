@@ -65,7 +65,7 @@ So, please follow these instructions to install the fix:
 2. Download the **MDK_Stellaris_ICDI_AddOn.exe** attachment at the bottom of the page by clicking on it.
 3. Navigate to where the file was downloaded.
 4. Double click on the file to install the fix.
-5. Follow the installation instructione (accept the default installation directory).
+5. Follow the installation instructions (accept the default installation directory).
 
 This makes it so that the USB drivers installed below will work.
 

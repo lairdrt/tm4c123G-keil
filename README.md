@@ -146,7 +146,7 @@ You want a clean start, so launch the IDE software anew. The screen should look 
 From within the uVision IDE:
 1. Select **Project > Open Project...**
 2. Navigate to the directory where you cloned the project (e.g., **C:\Keil_v5\Projects\tm4c123G-keil**).
-3. Double click on the name of the project (e.g., **wtf.uvprojx**).
+3. Double click on the name of the project (e.g., **blinkleds.uvprojx**).
 4. You should see something like this:
 
 ![project](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/ece5d7ec-dbc5-4356-983d-1fb4db881776)

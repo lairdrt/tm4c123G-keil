@@ -55,7 +55,7 @@ If the highlighted packages above do not display **Up to date** adjacent to them
 Close the Pack Installer.
 
 ## Install MDK Stellaris ICDI Debug Adapter Fix
-Frmo the Keil website:
+From the Keil website:
 
 **In MDK v5.29 as well as newer versions of MDK the support for the Stellaris ICDI debug adapter has been removed, which will cause such a debugger DLL error.
 There is an add-on Stellaris ICDI installer that supports MDK v5.29. Just download and install the MDK_Stellaris_ICDI_AddOn.exe file attached in this article.**

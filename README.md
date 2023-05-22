@@ -81,7 +81,7 @@ If the link breaks again or doesn't work for you, then follow the process below 
 We're going to assume that the TI driver link is **not** broken, so the instructions below will have you downlaod and install those drivers:
 
 First:
-1. Download the [TI Stellaris ICDI Drivers](https://www.ti.com/tool/STELLARIS_ICDI_DRIVERS) by clicking on the **Download** button.
+1. Download the [TI Stellaris ICDI Drivers](https://www.ti.com/tool/STELLARIS_ICDI_DRIVERS) (click the **Download** button on that page).
 2. Find the downloaded file.
 3. Extract the drivers to a location you can remember by double clicking the downloaded file.
 
@@ -89,7 +89,7 @@ Second:
 1. Plug in your LaunchPad to an available USB port on your development computer.
 2. Open up the Windows Device Manager (type **Device Manager** in the Windows search bar).
 3. Scroll down in the device list and find the **Other devices** category.
-4. You're lookikng for two devices that have been added when you plugged in the Launchpad:
+4. You're looking for two devices that have been added when you plugged in the Launchpad:
 
 ![dmotherdev](https://github.com/lairdrt/tm4c123g-keil/assets/31704471/23a27c06-a803-4f8f-9283-3799e2c6ef94)
 

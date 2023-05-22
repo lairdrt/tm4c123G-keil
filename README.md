@@ -72,7 +72,7 @@ This makes it so that the USB drivers installed below will work.
 ## Install Windows 10 USB Drivers
 You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy.
 
-***Prior to 5/21/2023, the link was broken for downloading the USB drivers supplied by TI for the LaunchPad USB board. That link appears to work as of 5/22/2023.***
+**Prior to 5/21/2023, the link was broken for downloading the USB drivers supplied by TI for the LaunchPad board. That link appears to work as of 5/22/2023.**
 
 If the link breaks again or doesn't work for you, then follow the process below to install the Windows 10 USB drivers:
 

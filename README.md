@@ -85,14 +85,15 @@ Second:
 
 ![dmotherdev](https://github.com/lairdrt/tm4c123g-keil/assets/31704471/23a27c06-a803-4f8f-9283-3799e2c6ef94)
 
-5. Right click on the first unknown device, and select **Update driver**.
-6. In the dialog that appears, select **Browse my computer for drivers**.
-7. Browse to the folder where you extracted the downloaded drivers.
-8. Select the folder where the drivers were extracted.
-9. Make sure the **Include subfolders** checkbox is selected.
-10. Select **Next** to install the drivers.
-11. You should see that the Stellaris driver has been installed.
-12. Repeat this process for the second device that appeared in the **Other devices** list.
+Finally:
+1. Right click on the first unknown device, and select **Update driver**.
+2. In the dialog that appears, select **Browse my computer for drivers**.
+3. Browse to the folder where you extracted the downloaded drivers.
+4. Select the folder where the drivers were extracted.
+5. Make sure the **Include subfolders** checkbox is selected.
+6. Select **Next** to install the drivers.
+7. You should see that the Stellaris driver has been installed.
+8. Repeat this process for the second device that appeared in the **Other devices** list.
 
 Successful driver installation looks like this:
 

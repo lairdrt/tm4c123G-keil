@@ -70,15 +70,7 @@ So, please follow these instructions to install the fix:
 This makes it so that the USB drivers installed below will work.
 
 ## Install Windows 10 USB Drivers
-You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy.
-
-**Prior to 5/21/2023, the link was broken for downloading the USB drivers supplied by TI for the LaunchPad board. That link appears to work as of 5/22/2023.**
-
-If the link breaks again or doesn't work for you, then follow the process below to install the Windows 10 USB drivers:
-
-[How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
-
-We're going to assume that the TI driver link is **not** broken, so the instructions below will have you downlaod and install those drivers:
+You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10.
 
 First:
 1. Download the [TI Stellaris ICDI Drivers](https://www.ti.com/tool/STELLARIS_ICDI_DRIVERS) (click the **Download** button on that page).
@@ -86,7 +78,7 @@ First:
 3. Extract the drivers to a location you can remember by double clicking the downloaded file.
 
 Second:
-1. Plug in your LaunchPad to an available USB port on your development computer.
+1. Plug in your LaunchPad to an available USB port on your development system.
 2. Open up the Windows Device Manager (type **Device Manager** in the Windows search bar).
 3. Scroll down in the device list and find the **Other devices** category.
 4. You're looking for two devices that have been added when you plugged in the Launchpad:
@@ -104,11 +96,15 @@ Second:
 
 Successful driver installation looks like this:
 
-![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/004925c3-d735-4c47-82b4-b249196616c1)
+![dminstalled](https://github.com/lairdrt/tm4c123g-keil/assets/31704471/8a041033-3770-4def-86d5-13acac792bfc)
 
 You should now be able to select the Stellaris ICDI interface within Keil uVision under **Options for Target** dialog box on the **Debug** tab. Note that you must have the LaunchPad plugged into a USB port on your development system for the device drivers to become available. You don't need to verify this just yet, but toward the end of these instructions, take a look.
 
 ![targetoptions](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/bf497924-5a0d-47d4-b086-d56d58c525ef)
+
+***Note that prior to 5/21/2023, the link was broken for downloading the USB drivers supplied by TI for the LaunchPad board. That link appears to work as of 5/22/2023. If the link breaks again or doesn't work for you, then follow the process below to install the Windows 10 USB drivers:***
+
+[How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
 
 ## Programming the Device
 

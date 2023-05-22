@@ -103,6 +103,7 @@ You should now be able to select the Stellaris ICDI interface within Keil uVisio
 
 ![targetoptions](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/bf497924-5a0d-47d4-b086-d56d58c525ef)
 
+## Alternate Method for Installing Windows USB Drivers
 ***Note that prior to 5/21/2023, the link was broken for downloading the USB drivers supplied by TI for the LaunchPad board. That link appears to work as of 5/22/2023. If the link breaks again or doesn't work for you, then follow the process below to install the Windows 10 USB drivers:***
 
 [How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)

@@ -70,9 +70,15 @@ So, please follow these instructions to install the fix:
 This makes it so that the USB drivers installed below will work.
 
 ## Install Windows 10 USB Drivers
-You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy. Fortunatley, this link helps:
+You'll need the correct Windows 10 USB drivers to download your compiled binary code to the LaunchPad. The LaunchPad does not support plug-and-play device driver installation under Windows 10. Finding the USB drivers that allow you to flash the LaunchPad is not easy.
+
+***Prior to 5/21/2023, the link for downloading the USB drivers supplied by TI for the LaunchPad USB board was broken. That link appears to work now.***
+
+If the link breaks again or doesn't work for you, then follow the process below to install the Windows 10 USB drivers:
 
 [How to install windows drivers for the LaunchPad on Windows 10](https://edx-org-utaustinx.s3.amazonaws.com/UT601x/InstallDrivers10.htm)
+
+We're going to assume that the TI driver link is **not** broken, so the instructions below will have you downlaod and install those drivers:
 
 First:
 1. Plug in your LaunchPad to an available USB port on your development computer.
@@ -81,8 +87,8 @@ First:
 
 ![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/004925c3-d735-4c47-82b4-b249196616c1)
 
-Then, if the drivers are **not** installed automatically:
-1. Download the UT Austin [Test EXecute And Simulate software](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/TExaS_Install.exe).
+Assuming the drivers are **not** installed automatically:
+1. Download the [TI Stellaris ICDI Drivers](https://www.ti.com/tool/STELLARIS_ICDI_DRIVERS) by clicking on the **Download** button.
 2. Find the downloaded file.
 3. Install by double clicking the downloaded file.
 4. Follow the installation instructions (install the software in the **same directory** as Keil uVision).

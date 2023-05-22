@@ -93,15 +93,18 @@ Second:
 
 ![dmotherdev](https://github.com/lairdrt/tm4c123g-keil/assets/31704471/23a27c06-a803-4f8f-9283-3799e2c6ef94)
 
-3. Successful driver installation looks like this:
+5. Right click on the first unknown device, and select **Update driver**.
+6. In the dialog that appears, select **Browse my computer for drivers**.
+7. Browse to the folder where you extracted the downloaded drivers.
+8. Select the folder where the drivers were extracted.
+9. Make sure the **Include subfolders** checkbox is selected.
+10. Select **Next** to install the drivers.
+11. You should see that the Stellaris driver has been installed.
+12. Repeat this process for the second device that appeared in the **Other devices** list.
+
+Successful driver installation looks like this:
 
 ![usbdrivers](https://github.com/lairdrt/tm4c123G-keil/assets/31704471/004925c3-d735-4c47-82b4-b249196616c1)
-
-
-Next, you'll update the Windows 10 drivers for the LaunchPad using the Windows Device Manager:
-1. Open up the **Device Manager** (type "Device Manager" in the Windows search bar).
-2. 
-3. You should end up with the device drivers installed as shown above (under Windows 10, there was no additional COM port).
 
 You should now be able to select the Stellaris ICDI interface within Keil uVision under **Options for Target** dialog box on the **Debug** tab. Note that you must have the LaunchPad plugged into a USB port on your development system for the device drivers to become available. You don't need to verify this just yet, but toward the end of these instructions, take a look.
 
